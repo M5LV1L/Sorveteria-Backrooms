@@ -1,0 +1,63 @@
+body {
+    background: #c4cc78
+}
+
+#banner {
+    width: 13%;
+}
+    #banner2 {
+    width: 20%
+}
+#banner3 {
+    width: 15%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #000000;
+}
+.itens {
+    text-align: left;
+    font-size: 25px;
+    font-style: italic;
+    color: #000000
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    margin-right: 10%;
+}
+
+.beneficios {
+    padding: 20px;
+    background: #c5c466;
+}
+
+#banner {
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+    margin-right: 30;
+}
+
+.Sorveteria-Backrooms {
+    padding: 50px;
+    background: #c5c466;
+}
